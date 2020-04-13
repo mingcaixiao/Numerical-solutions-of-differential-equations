@@ -19,7 +19,7 @@
 \monthinput{08}
 \dayinput{22}
 
-\title{二维非齐次热传导方程的向后Crank-Nicolson ADI格式}
+\title{二维非齐次热传导方程的Crank-Nicolson ADI格式}
 \begin{document}
 	\maketitle
 	~\\
@@ -45,7 +45,7 @@
 
 定义误差为$$ E_{\infty}(h,\tau)=\max \limits_{1 \leq i,j \leq m-1 \atop 1 \leq k \leq n } |u_{i,j}^k-u(x_i,y_j,t_k)| $$
 
-用向后Crank-Nicolson ADI格式求下述问题的数值解并对数值解、精度和误差阶进行相应的数值分析。
+用Crank-Nicolson ADI格式求下述问题的数值解并对数值解、精度和误差阶进行相应的数值分析。
 
 
 ~\\
@@ -244,7 +244,7 @@ t=1时，取不同步长时的误差见图\ref{fig:2},步长越小，误差越�
 		\centering 
 		\includegraphics[width=\textwidth]{figures/f5}
 		\caption[]%
-		{{\small $h=1/180,\tau=1/80$时的误差}}    
+		{{\small $h=1/80,\tau=1/80$时的误差}}    
 		\label{fig:mean and std of net44}
 	\end{subfigure}
 	\caption[ The average and standard deviation of critical parameters ]
