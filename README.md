@@ -10,7 +10,7 @@
 
 ## 2.编写Matlab程序并调试
 
-独立编写各个功能函数，依次测试各模块的运行结果，知道能够实现较低的误差
+独立编写各个功能函数，依次测试各模块的运行结果，直到能够实现较低的误差
 
 ![avatar](https://github.com/mingcaixiao/Numerical-solutions-of-differential-equations/blob/master/photo/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-02-28%20000752.png)
 
