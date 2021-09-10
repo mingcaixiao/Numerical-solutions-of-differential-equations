@@ -20,8 +20,6 @@
 
 ## 3.写出分析文档或者论文
 
-![avatar](https://github.com/mingcaixiao/Numerical-solutions-of-differential-equations/blob/master/photo/%E7%AC%AC%E5%9B%9B%E5%B0%8F%E7%BB%84%E8%82%96%E5%90%8D%E8%B4%A2png_Page1.png)
-
 ![avatar](https://github.com/mingcaixiao/Numerical-solutions-of-differential-equations/blob/master/photo/%E7%AC%AC%E5%9B%9B%E5%B0%8F%E7%BB%84%E8%82%96%E5%90%8D%E8%B4%A2png_Page2.png)
 
 ![avatar](https://github.com/mingcaixiao/Numerical-solutions-of-differential-equations/blob/master/photo/%E7%AC%AC%E5%9B%9B%E5%B0%8F%E7%BB%84%E8%82%96%E5%90%8D%E8%B4%A2png_Page3.png)
